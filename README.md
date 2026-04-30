@@ -11,8 +11,8 @@ Welcome to my GitHub!
 - 🧊 Contributor at Igloo Inc (collaborative org for side projects and experimentation)
 
 ## 🛠️ Tech Stack
-- **Languages:** Python, Java, JavaScript, ABAP
-- **Backend:** Node.js, Flask
+- **Languages:** Python, JavaScript, ABAP, C++
+- **Backend:** Node.js
 - **Frontend:** React, HTML, CSS
 - **Databases:** PostgreSQL, MySQL
 - **Tools:** Git, Docker, Linux, SAP
