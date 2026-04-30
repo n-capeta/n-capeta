@@ -8,10 +8,11 @@ Welcome to my GitHub!
 - 📚 Passionate about improving problem-solving skills and system design
 - 🧠 Currently sharpening my skills in Python, algorithms, and scalable systems
 - 🎯 Goal: Build impactful software and grow as a strong engineer in production environments
+- 🧊 Contributor at Igloo Inc (collaborative org for side projects and experimentation)
 
 ## 🛠️ Tech Stack
 - **Languages:** Python, Java, JavaScript, ABAP
-- **Backend:** Node.js, Flask, Spring (if applicable)
+- **Backend:** Node.js, Flask
 - **Frontend:** React, HTML, CSS
 - **Databases:** PostgreSQL, MySQL
 - **Tools:** Git, Docker, Linux, SAP
