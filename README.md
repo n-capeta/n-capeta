@@ -24,7 +24,7 @@ Welcome to my GitHub!
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=n-capeta&show_icons=true)
 
 ## 📫 Connect with Me
 - LinkedIn: www.linkedin.com/in/nathaniel-capeta
