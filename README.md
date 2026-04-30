@@ -26,6 +26,7 @@ Welcome to my GitHub!
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=n-capeta&show_icons=true&theme=tokyonight)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=n-capeta&layout=compact&theme=tokyonight)
 ## 📫 Connect with Me
 - LinkedIn: www.linkedin.com/in/nathaniel-capeta
 - Email: capetanathaniel@gmail.com
