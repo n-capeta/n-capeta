@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi there 👋 I'm Nathaniel
 
-<!--
-**n-capeta/n-capeta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub!
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 💻 Software Engineer focused on backend systems and full-stack development
+- 🏢 SAP Developer at FirstEnergy
+- 📚 Passionate about improving problem-solving skills and system design
+- 🧠 Currently sharpening my skills in Python, algorithms, and scalable systems
+- 🎯 Goal: Build impactful software and grow as a strong engineer in production environments
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- **Languages:** Python, Java, JavaScript, ABAP
+- **Backend:** Node.js, Flask, Spring (if applicable)
+- **Frontend:** React, HTML, CSS
+- **Databases:** PostgreSQL, MySQL
+- **Tools:** Git, Docker, Linux, SAP
+
+## 📈 What I'm Working On
+- Solving algorithm problems (LeetCode-style challenges)
+- Building side projects to deepen backend knowledge
+- Learning system design fundamentals
+- Improving clean code and debugging workflows
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+
+## 📫 Connect with Me
+- LinkedIn: www.linkedin.com/in/nathaniel-capeta
+- Email: capetanathaniel@gmail.com
+
+---
+
+💡 *“Code is a tool for thinking, not just building.”*
