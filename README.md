@@ -24,9 +24,9 @@ Welcome to my GitHub!
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=n-capeta&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=n-capeta&show_icons=true&count_private=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=n-capeta&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=n-capeta&layout=compact&count_private=true&theme=tokyonight)
 ## 📫 Connect with Me
 - LinkedIn: www.linkedin.com/in/nathaniel-capeta
 - Email: capetanathaniel@gmail.com
