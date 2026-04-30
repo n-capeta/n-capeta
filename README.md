@@ -22,11 +22,6 @@ Welcome to my GitHub!
 - Learning system design fundamentals
 - Improving clean code and debugging workflows
 
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=n-capeta&show_icons=true&count_private=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=n-capeta&layout=compact&count_private=true&theme=tokyonight)
 ## 📫 Connect with Me
 - LinkedIn: www.linkedin.com/in/nathaniel-capeta
 - Email: capetanathaniel@gmail.com
